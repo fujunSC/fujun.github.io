@@ -75,3 +75,18 @@ redirect_from:
     ` <td style="border-collapse: collapse; border: none;"> 与xx xx老师于20xx年xx地合照 </td>`
 
 </tr>
+
+
+
+<ul style="width: 1200px; height: auto; overflow: auto"><td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/fujunSC/fujunsc.github.io/master/images/fujun_hezhao.jpg" width="400" height="75" />
+  </td>
+
+    ` <td style="border-collapse: collapse; border: none;"> 与xx老师于20xx年xx地合照 </td>`
+
+`<td style="border-collapse: collapse; border: none;">`
+    `<img src="https://raw.githubusercontent.com/fujunSC/fujunsc.github.io/master/images/fujun_hezhao.jpg" width="400" height="75" />`
+
+</td>
+
+    ` <td style="border-collapse: collapse; border: none;"> 与xx老师于20xx年xx地合照 </td></ul>`
