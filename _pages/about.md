@@ -82,11 +82,13 @@ redirect_from:
     <img src="https://raw.githubusercontent.com/fujunSC/fujunsc.github.io/master/images/fujun_hezhao.jpg" width="400" height="75" />
   </td>
 
-    ` <td style="border-collapse: collapse; border: none;"> 与xx老师于20xx年xx地合照 </td>`
+    ` 与xx老师于20xx年xx地合照 </td>`
 
 `<td style="border-collapse: collapse; border: none;">`
     `<img src="https://raw.githubusercontent.com/fujunSC/fujunsc.github.io/master/images/fujun_hezhao.jpg" width="400" height="75" />`
 
 </td>
 
-    ` <td style="border-collapse: collapse; border: none;"> 与xx老师于20xx年xx地合照 </td></ul>`
+`与xx老师于20xx年xx地合照 `
+
+`</ul>`
