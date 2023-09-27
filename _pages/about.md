@@ -9,6 +9,8 @@ redirect_from:
 ---
 四川广播电视台资深导演、摄像；国家二级导演；四川省电视艺术家协会会员、中国电视艺术家协会会员。毕业于中国传媒大学，长期从事专题片、纪录片拍摄、制作工作，拥有丰富的影视制作经验和与国内一流团队合作的经验，入选国家新闻出版广电总局2011-2012年度优秀国产纪录片及创作人才扶持项目。其导演、拍摄影视作品曾多次获得星光奖、“金熊猫”国际奖项以及中广联、中视协全国性大奖。
 
+[Email]() / [Github](https://github.com/fujunSC) / [Wechat](../images/fujun_wechat.jpg) / [Blog](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+
 # 代表作品
 
 1. 第23届 星光奖“电视纪录片大奖
@@ -82,7 +84,7 @@ redirect_from:
     <img src="https://raw.githubusercontent.com/fujunSC/fujunsc.github.io/master/images/fujun_hezhao.jpg" width="400" height="75" />
   </td>
 
-    ` 与xx老师于20xx年xx地合照 </td>`
+    ` 与xx老师于20xx年xx地合照`
 
 `<td style="border-collapse: collapse; border: none;">`
     `<img src="https://raw.githubusercontent.com/fujunSC/fujunsc.github.io/master/images/fujun_hezhao.jpg" width="400" height="75" />`
