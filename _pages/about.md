@@ -12,21 +12,13 @@ redirect_from:
 # 代表作品
 
 1. 第23届 星光奖“电视纪录片大奖
-
 2. 2011 （第十一届）四川电视节金熊猫奖自然灾害类最佳长纪录片和最佳制作大奖[《从悲壮走向豪迈》](http://jishi.cntv.cn/2015/05/04/VIDA1430726911074782.shtml "央视纪实")
-
 3. 国家新闻出版广电总局2011-2012 年度优秀国产纪录片及创作人才扶持项目优秀短片 [《新家》](https://www.ctg.com.cn/sxjt/xwzx55/spzq/xxzs/1416847/index.html "微电影《新家》")
-
 4. 第三届中国纪录片学院奖最佳国际传播奖
-
 5. 第九届中国纪录片国际选片会十大纪录片 [《熊猫一一野性回归》](http://www.docuchina.cn/2013/11/27/VIDA1385540310443738.shtml "中国纪录片网")
-
 6. 第十一届“金熊猫”国际自然灾害长片入围奖《三官村纪事》
-
 7. “5.12”灾后重建纪录片 [《红白重生记》 《五城镇重生档案》《重建档案》](https://www.iqiyi.com/adv/w_19s39f14a1.html)等
-
 8. 系列微纪录片 [《四季》](https://www.iqiyi.com/v_19rr4eiywo.html)
-
 9. 第四届电教片卫士奖一等奖 《600元红包该不该收》等
 
 获奖经历
@@ -67,9 +59,19 @@ redirect_from:
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/fujunSC/fujunsc.github.io/master/images/fujun_hezhao.jpg" width="800" height="150" />
+    <img src="https://raw.githubusercontent.com/fujunSC/fujunsc.github.io/master/images/fujun_hezhao.jpg" width="400" height="75" />
   </td>
 
-    ` <td style="border-collapse: collapse; border: none;"> 与xxx老师于20xx年xx地合照 </td>`
+    ` <td style="border-collapse: collapse; border: none;"> 与xx老师于20xx年xx地合照 </td>`
+
+</tr>
+
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/fujunSC/fujunsc.github.io/master/images/fujun_hezhao.jpg" width="400" height="75" />
+  </td>
+
+    ` <td style="border-collapse: collapse; border: none;"> 与xx xx老师于20xx年xx地合照 </td>`
 
 </tr>
